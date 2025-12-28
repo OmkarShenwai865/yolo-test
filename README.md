@@ -1,2 +1,2 @@
 # YOLO Badge
-This PR is merged directly into main 🚀
+This PR is merged directly into main 🚀...
